@@ -1,0 +1,19 @@
+{
+  "name": "js_avanzado",
+  "version": "1.0.0",
+  "description": "Clase de import y exports",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JOrge Santacruz",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorge2605/js_avanzado.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jorge2605/js_avanzado/issues"
+  },
+  "homepage": "https://github.com/jorge2605/js_avanzado#readme"
+}
