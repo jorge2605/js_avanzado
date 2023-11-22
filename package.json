@@ -6,8 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "JOrge Santacruz",
+  "author": "Jorge Santacruz",
   "license": "ISC",
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jorge2605/js_avanzado.git"

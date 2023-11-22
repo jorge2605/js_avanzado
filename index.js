@@ -4,6 +4,7 @@
 // a.variable2();
 
 //ES6
-import functionA from "./es6Imports";
+import functionA, { functionB } from "./es6Imports.js";
 
 functionA();
+functionB();
